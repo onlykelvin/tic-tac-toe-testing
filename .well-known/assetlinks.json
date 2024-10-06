@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.dzollu",
+      "sha256_cert_fingerprints": ["39:9D:2A:8D:5A:17:3F:B0:95:5B:2E:9D:BF:FE:B0:54:4C:30:CA:1D:FC:92:7C:96:F6:A3:E0:6A:52:66:FF:E2"]
+    }
+  }
+]
